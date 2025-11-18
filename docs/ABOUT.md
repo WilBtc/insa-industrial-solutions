@@ -176,12 +176,15 @@ We invest 15% of revenue in R&D, focusing on:
 ## Geographic Presence
 
 ### Headquarters
-Based in Bogota, serving Latin America and beyond.
+**Bogotá, Colombia** - Main operations with 35 employees (~18 engineers/technicians)
 
 ### Service Areas
-- Latin America (primary market)
-- North America (expanding)
-- Remote support worldwide
+- 🇨🇴 Colombia (Primary market - headquarters)
+- 🇪🇨 Ecuador (Operations)
+- 🇺🇸 USA (Texas - Midland Oil & Gas hub)
+- 🇦🇷 Argentina (Market expansion - Vaca Muerta)
+- 🌎 Latin America (Regional coverage)
+- 🌍 Remote support worldwide
 
 ### Language Support
 - Spanish (native)

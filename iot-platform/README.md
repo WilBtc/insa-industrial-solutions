@@ -4,6 +4,21 @@
 
 Enterprise-grade Industrial IoT platform designed for real-time monitoring, control, and optimization of industrial equipment and processes. Built on proven open-source technologies with custom industrial-grade enhancements.
 
+### Production Deployment - Vidrio Andino S.A.S
+
+**Real-World Implementation:**
+- 🏭 **Client**: Vidrio Andino S.A.S (Glass Manufacturing - Colombia)
+- 📊 **Scale**: 161.4+ million sensor records (Aug-Oct 2025)
+  - August 2025: 64.6 million records
+  - September 2025: 86.0 million records
+  - October 2025: 10.8 million records
+- 🔌 **Devices**: 7 active IoT sensors (IoT_VidrioAndino, IoTPozo1-5, Totalizador)
+- 📈 **Sensor Keys**: 75+ monitored parameters
+- 🏢 **Coverage**: 6 industrial areas (Empaque, Laminado, Muelles, Naves A-F)
+- ⚡ **Platform**: ThingsBoard Pro (100.107.50.52:7777) + Custom INSA IoT Platform v2.0
+- 🎯 **Uptime**: 99.9% target achieved in production
+- 🔄 **Data Sync**: 15-minute intervals from Azure VM to local platform
+
 ## Architecture
 
 ```

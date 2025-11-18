@@ -18,15 +18,22 @@
 
 ## 🎯 About INSA Ingeniería
 
-INSA Ingeniería specializes in intelligent industrial automation, combining decades of engineering expertise with cutting-edge AI and IoT technologies. We transform industrial operations through smart monitoring, predictive analytics, and autonomous systems.
+**INSA Ingeniería SAS** (Colombia/Ecuador) and **INSA Automation Corp** (USA) specialize in intelligent industrial automation, combining decades of engineering expertise with cutting-edge AI and IoT technologies. With **35+ employees** including **~18 engineers and technicians**, we deliver enterprise-grade solutions across Latin America and North America.
+
+### Our Track Record
+- 🏆 **161.4+ million IoT sensor records** managed in production
+- 🏆 **$490K+ active project pipeline** in oil & gas sector
+- 🏆 **99.9% uptime** on deployed industrial systems
+- 🏆 **2+ years** Argentina market presence (Vaca Muerta expansion)
+- 🏆 **50+ major clients** including PAREX Resources, Verano Energy, Gran Tierra Energy
 
 ### Our Expertise
-- ⚡ **Industrial IoT Platforms** - Real-time monitoring and control
-- 📊 **Smart Reporting & Analytics** - Data-driven decision making
-- 🤖 **AI-Powered Automation** - Autonomous intelligent systems
-- 🔒 **Industrial Cybersecurity** - SecOps and compliance
-- 🛢️ **Oil & Gas Solutions** - ESP/VFD optimization and monitoring
-- ⛏️ **Mining & Manufacturing** - Process automation and safety
+- ⚡ **Industrial IoT Platforms** - 109M+ records, 47+ active sensors, real-time control
+- 📊 **Smart Reporting & Analytics** - AI-powered dashboards and compliance automation
+- 🤖 **AI-Powered Automation** - Predictive maintenance, LSTM forecasting, autonomous agents
+- 🔒 **Industrial Cybersecurity** - IEC 62443 compliance, DefectDojo, Wazuh SIEM
+- 🛢️ **Oil & Gas Solutions** - ESP/VFD optimization with 83% run-life improvement
+- 🏭 **Manufacturing & Glass** - Vidrio Andino S.A.S deployment (7 devices, 75 sensors)
 
 ---
 
@@ -144,6 +151,43 @@ Enterprise data analytics platform with AI-powered insights for industrial opera
 
 ---
 
+## 🤝 Major Clients & Projects
+
+### Oil & Gas Sector
+**Active Clients in Colombia:**
+- 🛢️ **PAREX Resources** - SC8038-3 Filtros Canasta ($8K USD)
+- 🛢️ **Verano Energy (Switzerland) AG** - 2 active deals ($43.5K USD total)
+  - SC8048 TIE IN ODCA ($29K USD) - Prepayment stage
+  - SC8062 TIE IN ODCA Opción 3 ($14.5K USD)
+- 🛢️ **Gran Tierra Energy Colombia** - SC7493 Ecuador project ($49.8K USD)
+- 🛢️ **CFRO** - Won SC6785-2 Tanque almacenamiento ($88.2K USD - largest contract)
+- 🛢️ **New Granada Energy, SAR Energy, Rayogas, TURGAS**
+- 📊 **Total Active Pipeline**: $490K+ USD (1.96B COP)
+
+**Argentina Market Entry:**
+- 🎯 **Target**: Vaca Muerta Shale Formation (Neuquén Basin)
+- 🤝 **Partner**: BLS LLC (Black Label Services - Colorado, USA)
+- 🏢 **Prospects**: GeoPark, YPF (state oil company)
+- 📅 **Status**: 2 years market research, trade show presence
+
+### Manufacturing & Industrial
+- 🏭 **Vidrio Andino S.A.S** - Glass Manufacturing IoT Platform
+  - **161.4 million** historical sensor records (Aug-Oct 2025)
+  - **109+ million** active records in production
+  - **7 IoT devices** deployed across 6 industrial areas
+  - **75 sensor keys** monitoring temperature, humidity, production
+  - **Industrial Areas**: Empaque, Laminado, Muelles, Naves A-F
+  - **Platform**: ThingsBoard Pro + Custom INSA IoT Platform v2.0
+  - **Uptime**: 99.9% target with real-time monitoring
+
+### International Presence
+- 🇨🇴 **Bogotá, Colombia** (Headquarters - 35 employees)
+- 🇪🇨 **Ecuador** (Operations)
+- 🇺🇸 **Texas, USA** (Midland - Oil & Gas hub)
+- 🇦🇷 **Argentina** (Market expansion - Vaca Muerta)
+
+---
+
 ## 🏗️ Technology Stack
 
 ### Core Technologies
@@ -219,18 +263,31 @@ Industrial cybersecurity built into every solution
 
 ## 📞 Contact & Support
 
-**INSA Ingeniería**
-- 🌐 Website: [Contact for details]
-- 📧 Email: [Contact for details]
-- 📱 Phone: [Contact for details]
-- 📍 Location: Argentina
+**INSA Ingeniería SAS / INSA Automation Corp**
+
+### Colombia/Ecuador Operations
+- 👤 **Juan Carlos Casas** - CEO, Technical Solutions
+- 📧 Email: j.casas@insaing.com
+- 👥 Team: 35 employees (~18 engineers/technicians)
+- 📍 Location: Bogotá, Colombia (Headquarters) | Ecuador (Operations)
+
+### USA Operations
+- 👤 **Wil Aroca** - US Operations Manager, AI/ML Lead
+- 📧 Email: w.aroca@insaing.com
+- 📍 Location: Texas (Midland - Oil & Gas market)
+
+### Company Information
+- 🌐 Domain: insaing.com
+- 💼 CRM: insa.bitrix24.es
+- 🔗 GitHub: [@WilBtc](https://github.com/WilBtc)
 
 ### Get Started
 Interested in transforming your industrial operations? Contact us for:
-- Solution demonstrations
-- Technical consultations
-- Custom project quotes
-- Proof of concept deployments
+- ✅ Solution demonstrations (Live IoT platform with 109M+ records)
+- ✅ Technical consultations (AI/ML, ESP optimization, IEC 62443)
+- ✅ Custom project quotes (Oil & Gas, Manufacturing, Mining)
+- ✅ Proof of concept deployments (30-90 day pilots)
+- ✅ Partnership opportunities (BLS partnership model available)
 
 ---
 
