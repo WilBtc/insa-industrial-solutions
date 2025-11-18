@@ -176,7 +176,7 @@ We invest 15% of revenue in R&D, focusing on:
 ## Geographic Presence
 
 ### Headquarters
-Based in Argentina, serving Latin America and beyond.
+Based in Bogota, serving Latin America and beyond.
 
 ### Service Areas
 - Latin America (primary market)
@@ -193,9 +193,6 @@ Based in Argentina, serving Latin America and beyond.
 ### By the Numbers
 - **100+** industrial installations
 - **5,000+** connected devices
-- **50+** enterprise clients
-- **99.9%** platform uptime
-- **$50M+** in client savings
 
 ### Client Sectors
 - Major oil & gas operators
