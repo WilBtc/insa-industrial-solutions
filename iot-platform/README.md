@@ -7,7 +7,7 @@ Enterprise-grade Industrial IoT platform designed for real-time monitoring, cont
 ### Production Deployment - Vidrio Andino S.A.S
 
 **Real-World Implementation:**
-- 🏭 **Client**: Vidrio Andino S.A.S (Glass Manufacturing - Colombia)
+- 🏭 **Client**: (Glass Manufacturing - Colombia)
 - 📊 **Scale**: 161.4+ million sensor records (Aug-Oct 2025)
   - August 2025: 64.6 million records
   - September 2025: 86.0 million records
@@ -311,10 +311,7 @@ Enterprise-grade Industrial IoT platform designed for real-time monitoring, cont
 
 ## Contact
 
-For demos, quotes, or technical questions:
-- 📧 Email: [Contact INSA]
-- 📱 Phone: [Contact INSA]
-- 🌐 Web: [Contact INSA]
+For demos, quotes, or technical questions email me w.aroca@insaing.com
 
 ---
 
