@@ -1,0 +1,35 @@
+# Credentials and secrets
+*.key
+*.pem
+*.env
+.env.*
+secrets/
+credentials/
+
+# Personal information
+contact-info.txt
+internal/
+
+# Development
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~*
