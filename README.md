@@ -22,12 +22,7 @@
 
 **INSA Ingeniería SAS** (Colombia/Ecuador) and **INSA Automation Corp** (USA) specialize in intelligent industrial automation, combining decades of engineering expertise with cutting-edge AI and IoT technologies. With **35+ employees** including **~18 engineers and technicians**, we deliver enterprise-grade solutions across Latin America and North America.
 
-### Our Track Record
-- 🏆 **161.4+ million IoT sensor records** managed in production
-- 🏆 **$490K+ active project pipeline** in oil & gas sector
-- 🏆 **99.9% uptime** on deployed industrial systems
-- 🏆 **2+ years** Argentina market presence (Vaca Muerta expansion)
-- 🏆 **50+ major clients** including PAREX Resources, Verano Energy, Gran Tierra Energy
+
 
 ### Our Expertise
 - ⚡ **Industrial IoT Platforms** - 109M+ records, 47+ active sensors, real-time control
@@ -157,14 +152,14 @@ Enterprise data analytics platform with AI-powered insights for industrial opera
 
 ### Oil & Gas Sector
 **Active Clients in Colombia:**
-- 🛢️ **PAREX Resources** - SC8038-3 Filtros Canasta ($8K USD)
-- 🛢️ **Verano Energy (Switzerland) AG** - 2 active deals ($43.5K USD total)
-  - SC8048 TIE IN ODCA ($29K USD) - Prepayment stage
-  - SC8062 TIE IN ODCA Opción 3 ($14.5K USD)
-- 🛢️ **Gran Tierra Energy Colombia** - SC7493 Ecuador project ($49.8K USD)
-- 🛢️ **CFRO** - Won SC6785-2 Tanque almacenamiento ($88.2K USD - largest contract)
+- 🛢️ **PAREX Resources** - SC8038-3 Filtros Canasta 
+- 🛢️ **Verano Energy (Switzerland) AG** - 2 active deals 
+  - SC8048 TIE IN ODCA  - Prepayment stage
+  - SC8062 TIE IN ODCA Opción 3
+- 🛢️ **Gran Tierra Energy Colombia** - SC7493 Ecuador project 
+- 🛢️ **CFRO** - Won SC6785-2 Tanque almacenamiento 
 - 🛢️ **New Granada Energy, SAR Energy, Rayogas, TURGAS**
-- 📊 **Total Active Pipeline**: $490K+ USD (1.96B COP)
+
 
 **Argentina Market Entry:**
 - 🎯 **Target**: Vaca Muerta Shale Formation (Neuquén Basin)
@@ -244,7 +239,7 @@ Enterprise data analytics platform with AI-powered insights for industrial opera
 ## 🌟 Why Choose INSA?
 
 ### ✨ **Proven Expertise**
-20+ years of industrial automation experience combined with cutting-edge AI capabilities
+15+ years of industrial automation experience combined with cutting-edge AI capabilities
 
 ### 🔧 **Custom Solutions**
 Tailored systems designed for your specific industrial requirements
@@ -280,7 +275,6 @@ Industrial cybersecurity built into every solution
 
 ### Company Information
 - 🌐 Domain: insaing.com
-- 💼 CRM: insa.bitrix24.es
 - 🔗 GitHub: [@WilBtc](https://github.com/WilBtc)
 
 ### Get Started
