@@ -12,6 +12,8 @@
 [![Industry 4.0](https://img.shields.io/badge/Industry-4.0-orange.svg)]()
 [![AI Powered](https://img.shields.io/badge/AI-Powered-green.svg)]()
 
+**English** | [Español](./README.es.md)
+
 </div>
 
 ---
